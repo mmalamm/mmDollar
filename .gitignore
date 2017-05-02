@@ -1,4 +1,6 @@
 .DS_Store
+lib/mmdollar.js
+lib/mmdollar.js.map
 lib/.DS_Store
 mmdollar.js
 mmdollar.js.map
