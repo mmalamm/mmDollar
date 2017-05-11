@@ -1,2 +1,2 @@
 # mmDollar
-##Dom traversal, manipulation, and ajax library
+## Dom traversal, manipulation, and AJAX library
